@@ -72,3 +72,8 @@ go test ./...
 The tests drive the whole app through its Bubble Tea model against a fake usage endpoint, a temporary credentials file and a fake clock, so they need no network or real login. The project's vocabulary (Usage Window, Utilization, Reset Time, …) is defined in [CONTEXT.md](CONTEXT.md).
 
 Built with [Bubble Tea](https://github.com/charmbracelet/bubbletea) and [Lip Gloss](https://github.com/charmbracelet/lipgloss).
+
+## Motivation
+## Quick Start
+## Usage
+## Contributing
